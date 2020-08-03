@@ -1,0 +1,14 @@
+*~
+build/
+data/
+dist/
+docs/build/
+.DS_Store
+*.egg
+*.egg-info/
+.idea/
+model/
+__pycache__/
+*.py[cod]
+*.so
+venv/
